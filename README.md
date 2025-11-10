@@ -200,4 +200,4 @@ MIT License
 
 ## 联系方式
 
-如有问题，请通过GitHub Issues联系我们。
+如有问题，请通过GitHub Issues联系我们，谢谢。
